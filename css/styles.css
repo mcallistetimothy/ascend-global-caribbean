@@ -1,0 +1,42 @@
+body {
+   
+}
+h1 {
+    color: blue;
+}
+.container {
+    width: 90%;
+    max-width: 1120px;
+    margin: 0 auto;
+}
+.hero {
+    background-color: #f6f2e8;
+    padding: 100px 0;
+}
+.hero h1 {
+    color:#102a33;
+    font-size: 70px;
+    line-height: 0.95;
+    margin: 20px 0;
+}
+.hero h1 span {
+    display: block;
+    color: #40b7a5;
+}
+.hero-description {
+    color: #56656b;
+    font-size: 18px;
+    max-width: 600px;
+}
+.button {
+    display: inline-block;
+    background-color: #102a33;
+    color: #fff;
+    padding: 14px 24px;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.button:hover {
+    background-color: #40b7a5;
+}
